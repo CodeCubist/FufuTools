@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FufuTools (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FufuTools (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
